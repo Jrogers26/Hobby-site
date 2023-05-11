@@ -51,9 +51,9 @@ body {
 }
 
 .a-img {
-max-width: 320px;
-float: left;
-border: 3px solid #fff;
+   max-width: 320px;
+   float: left;
+   border: 3px solid #fff;
 border-radius: 10%;
 }
 
@@ -85,11 +85,20 @@ border-radius: 10%;
     padding-bottom: 10px;
 }
 
-.form-btn {
-
+.about-col {
+    margin: auto;
+    width: 80%;
+    padding: 40px;
+    margin-top: 100px;
+    border-radius: 25px;
+    border: 1px solid black;
+    background-color: gray;
+    
 }
 
-
+p {
+    color: #fff;
+}
 
 
 
